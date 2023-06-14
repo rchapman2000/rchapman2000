@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Ryan Chapman, and I am currently a Bioinformatician in the Laboratory of Dr. Mike Wiley, at the [University of Nebraska Medical Center](https://www.unmc.edu/).
+
+I completed by Bachelors of Science in Bioinformatics at the [University of Nebraska at Omaha](https://www.unomaha.edu/college-of-arts-and-sciences/biology/academics/bioinformatics.php) in July of 2023.
+
+[![rchapman2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=rchapman2000&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rchapman2000/rchapman2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
